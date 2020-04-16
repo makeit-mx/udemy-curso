@@ -5,3 +5,31 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Notas
 Pueden hacer lo que quieran...
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+
+## Cursiva
+Un gran poder requiere _una_ gran *responsabilidad*
+
+## Negrita
+Un **gran poder** requiere _una_ gran *responsabilidad*
+
+## Anotacion
+> Ben Parket
+
+1. item 1
+2. item
+3. item
+  * subitem
+  * subitem
+  * subitem
+ 
+## Imagen
+![Imagen](https://www.makeit.com.mx/images/blog/pub200416-1.jpg)
+
+## Link
+[Ir a la imagen](https://www.makeit.com.mx/images/blog/pub200416-1.jpg)
